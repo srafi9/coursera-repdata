@@ -1,6 +1,7 @@
 Health and Economic Impact of Weather Events in the US
 ======================================================
-
+SR
+Sep 2015
 
 Storms and other severe weather events can cause both public health and economic
 problems for communities and municipalities. Many severe events can result in
